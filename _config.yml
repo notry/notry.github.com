@@ -10,11 +10,11 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : ZenNote
-tagline: about test
+tagline: IT Team
 author : 
-  name : kaijie.wang
+  name : leslie.Wong
   email : forterminal@gmail.com
-  github : norty
+  github : notry
   twitter : notry
   feedburner : feedname
 
