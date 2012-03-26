@@ -10,9 +10,9 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : ZenNote
-tagline: Site Tagline
+tagline: about test
 author : 
-  name : Name Lastname
+  name : kaijie.wang
   email : forterminal@gmail.com
   github : norty
   twitter : notry
