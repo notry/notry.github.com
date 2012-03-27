@@ -1,12 +1,14 @@
 ---
 layout: page
-title: about  leslie
-tagline: about me
+title: Ihaveu Team
+tagline: 
 ---
 {% include JB/setup %}
 
-我曾经跳进冰冷彻骨的河水中，救起了一个豆蔻少女 是的，是这样的.
-日志列表：
+创作是一件开心的事情，沉浸只是因为纯粹的灵感。我希望自己的生命能够时常充满灵感，而文字就是这些愉快时光曾经存在过的证明。
+
+
+<h4>最近发布的文章</h4>
 
 <ul class="posts">
   {% for post in site.posts %}
